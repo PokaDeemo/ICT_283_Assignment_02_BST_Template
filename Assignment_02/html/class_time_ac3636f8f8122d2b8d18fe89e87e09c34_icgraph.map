@@ -1,0 +1,9 @@
+<map id="operator==" name="operator==">
+<area shape="rect" id="node1" title="getter for the Minute" alt="" coords="389,53,475,78"/>
+<area shape="rect" id="node2" href="$_time___testing_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="52,27,103,53"/>
+<area shape="rect" id="node3" href="$class_time.html#afa91c9be47dbf05c95d2d2a99721de32" title="This function will overload the operators and compare the two Time Objects." alt="" coords="227,27,312,53"/>
+<area shape="rect" id="node4" href="$class_wind_log.html#afc7d36b2d89bc7c7c5389b6c5fcfbceb" title="getter for the Time from the Weather Class" alt="" coords="197,126,341,151"/>
+<area shape="rect" id="node7" href="$class_time.html#ab8c4fc3d3326f97d579641534ba6f899" title="This function will overload the operators and compare the two Time Objects." alt="" coords="231,77,308,102"/>
+<area shape="rect" id="node5" href="$class_wind_log.html#ab39e009a6b9b3fe35e7ee5e13a7b2577" title="This function will overload the &quot;&gt;&quot; operator and will compare two WindLog Objects." alt="" coords="5,101,149,126"/>
+<area shape="rect" id="node6" href="$class_wind_log.html#ae0721d1190c387ff3fda717d7200393e" title="This function will overload the &quot;&lt;&quot; operator and will compare two WindLog Objects." alt="" coords="9,150,145,175"/>
+</map>

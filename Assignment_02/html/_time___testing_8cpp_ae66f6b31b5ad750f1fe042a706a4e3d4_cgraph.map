@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,196,56,221"/>
+<area shape="rect" id="node2" href="$class_time.html#ae1b428aaf9136ad37dd467428a286bc6" title="setter for the Minute" alt="" coords="449,147,555,172"/>
+<area shape="rect" id="node3" href="$class_time.html#ab08160cc42d211f5661fb666d2d645e8" title="getter for the Hour" alt="" coords="443,196,561,221"/>
+<area shape="rect" id="node4" href="$class_time.html#ab046acec34a768175f0e30fd269ca7a2" title="This function will overload the operators and compare the two Time Objects." alt="" coords="277,147,391,172"/>
+<area shape="rect" id="node5" href="$class_time.html#afa91c9be47dbf05c95d2d2a99721de32" title="This function will overload the operators and compare the two Time Objects." alt="" coords="104,196,225,221"/>
+<area shape="rect" id="node6" href="$class_time.html#ac3636f8f8122d2b8d18fe89e87e09c34" title="getter for the Minute" alt="" coords="273,196,395,221"/>
+<area shape="rect" id="node7" href="$class_time.html#ab8c4fc3d3326f97d579641534ba6f899" title="This function will overload the operators and compare the two Time Objects." alt="" coords="108,147,221,172"/>
+<area shape="rect" id="node8" href="$class_time.html#a9e86020db1b16b5212c33a16d39ac4cc" title="This function will overload the operators and compare the two Time Objects." alt="" coords="104,45,225,71"/>
+<area shape="rect" id="node9" href="$class_time.html#ae47539f4582579fa6b19f11088360f12" title="Parameter Constructor for Time." alt="" coords="112,348,217,373"/>
+<area shape="rect" id="node10" href="$class_time.html#a6d3f719e52ebd854aade78e4e5f2f567" title="setter for the Hour" alt="" coords="106,397,223,423"/>
+</map>

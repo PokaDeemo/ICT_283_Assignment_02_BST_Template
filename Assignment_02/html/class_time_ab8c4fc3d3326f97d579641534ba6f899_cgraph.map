@@ -1,0 +1,7 @@
+<map id="operator&gt;" name="operator&gt;">
+<area shape="rect" id="node1" title="This function will overload the operators and compare the two Time Objects." alt="" coords="5,31,83,56"/>
+<area shape="rect" id="node2" href="$class_time.html#ab046acec34a768175f0e30fd269ca7a2" title="This function will overload the operators and compare the two Time Objects." alt="" coords="135,5,212,31"/>
+<area shape="rect" id="node5" href="$class_time.html#ac3636f8f8122d2b8d18fe89e87e09c34" title="getter for the Minute" alt="" coords="131,55,216,80"/>
+<area shape="rect" id="node3" href="$class_time.html#ae1b428aaf9136ad37dd467428a286bc6" title="setter for the Minute" alt="" coords="270,5,341,31"/>
+<area shape="rect" id="node4" href="$class_time.html#ab08160cc42d211f5661fb666d2d645e8" title="getter for the Hour" alt="" coords="264,55,347,80"/>
+</map>

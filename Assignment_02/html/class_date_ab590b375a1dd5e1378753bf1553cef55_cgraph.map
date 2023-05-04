@@ -1,0 +1,6 @@
+<map id="operator==" name="operator==">
+<area shape="rect" id="node1" title="function to convert to the integer month into an string month" alt="" coords="5,55,91,80"/>
+<area shape="rect" id="node2" href="$class_date.html#a0b83a64b0b994bb8a43b2223e797bd5c" title="setter for the Year" alt="" coords="145,5,211,31"/>
+<area shape="rect" id="node3" href="$class_date.html#af0cb3aa2986a250f4584fa43b133e92f" title="getter for the Day" alt="" coords="139,55,217,80"/>
+<area shape="rect" id="node4" href="$class_date.html#a2db2a6f455cbf2cc0011da9326edae5f" title="getter for the Month" alt="" coords="143,104,213,129"/>
+</map>

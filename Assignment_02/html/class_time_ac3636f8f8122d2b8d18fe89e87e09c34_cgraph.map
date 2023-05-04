@@ -1,0 +1,5 @@
+<map id="operator==" name="operator==">
+<area shape="rect" id="node1" title="getter for the Minute" alt="" coords="5,31,91,56"/>
+<area shape="rect" id="node2" href="$class_time.html#ae1b428aaf9136ad37dd467428a286bc6" title="setter for the Minute" alt="" coords="145,5,215,31"/>
+<area shape="rect" id="node3" href="$class_time.html#ab08160cc42d211f5661fb666d2d645e8" title="getter for the Hour" alt="" coords="139,55,221,80"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="operator==" name="operator==">
+<area shape="rect" id="node1" title="getter for the Time from the Weather Class" alt="" coords="5,80,91,105"/>
+<area shape="rect" id="node2" href="$class_wind_log.html#a129b8c3792b2e50a95a3cc9da2bf0f4e" title="setter for the Weather that is calling from the Time class" alt="" coords="164,5,235,31"/>
+<area shape="rect" id="node3" href="$class_wind_log.html#a53ba82e71ff3f1b2a82a3e3ddf98bc08" title="getter for the Date from the Date Class" alt="" coords="164,55,235,80"/>
+<area shape="rect" id="node4" href="$class_date.html#ab590b375a1dd5e1378753bf1553cef55" title="function to convert to the integer month into an string month" alt="" coords="139,104,259,129"/>
+<area shape="rect" id="node8" href="$class_time.html#ac3636f8f8122d2b8d18fe89e87e09c34" title="getter for the Minute" alt="" coords="139,177,260,203"/>
+<area shape="rect" id="node5" href="$class_date.html#a0b83a64b0b994bb8a43b2223e797bd5c" title="setter for the Year" alt="" coords="317,29,418,55"/>
+<area shape="rect" id="node6" href="$class_date.html#af0cb3aa2986a250f4584fa43b133e92f" title="getter for the Day" alt="" coords="310,79,425,104"/>
+<area shape="rect" id="node7" href="$class_date.html#a2db2a6f455cbf2cc0011da9326edae5f" title="getter for the Month" alt="" coords="315,128,420,153"/>
+<area shape="rect" id="node9" href="$class_time.html#ae1b428aaf9136ad37dd467428a286bc6" title="setter for the Minute" alt="" coords="314,177,421,203"/>
+<area shape="rect" id="node10" href="$class_time.html#ab08160cc42d211f5661fb666d2d645e8" title="getter for the Hour" alt="" coords="308,227,427,252"/>
+</map>

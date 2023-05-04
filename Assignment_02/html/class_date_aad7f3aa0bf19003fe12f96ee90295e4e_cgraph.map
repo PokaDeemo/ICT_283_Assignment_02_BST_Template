@@ -1,0 +1,7 @@
+<map id="operator&gt;=" name="operator&gt;=">
+<area shape="rect" id="node1" title="This function will overload the operator and compare the Date objects." alt="" coords="5,55,91,80"/>
+<area shape="rect" id="node2" href="$class_date.html#a4dbb22b71dd9b11a03e2c7cff703008e" title="This function will overload the operator and compare the Date objects." alt="" coords="139,55,216,80"/>
+<area shape="rect" id="node3" href="$class_date.html#a0b83a64b0b994bb8a43b2223e797bd5c" title="setter for the Year" alt="" coords="270,5,337,31"/>
+<area shape="rect" id="node4" href="$class_date.html#af0cb3aa2986a250f4584fa43b133e92f" title="getter for the Day" alt="" coords="264,55,343,80"/>
+<area shape="rect" id="node5" href="$class_date.html#a2db2a6f455cbf2cc0011da9326edae5f" title="getter for the Month" alt="" coords="268,104,339,129"/>
+</map>

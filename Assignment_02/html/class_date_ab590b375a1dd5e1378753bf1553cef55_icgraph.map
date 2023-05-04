@@ -1,0 +1,11 @@
+<map id="operator==" name="operator==">
+<area shape="rect" id="node1" title="function to convert to the integer month into an string month" alt="" coords="389,81,475,106"/>
+<area shape="rect" id="node2" href="$_date___testing_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="52,32,103,57"/>
+<area shape="rect" id="node3" href="$class_wind_log.html#a22631dc5381a55fc96393f98d703c5cb" title="This function will overload the &quot;==&quot; operator and will compare two WindLog Objects." alt="" coords="201,180,337,205"/>
+<area shape="rect" id="node7" href="$class_date.html#ad91f285e37d5522b11000c7c79239cfb" title="This function will overload the operator and compare the Date objects." alt="" coords="227,32,312,57"/>
+<area shape="rect" id="node8" href="$class_wind_log.html#afc7d36b2d89bc7c7c5389b6c5fcfbceb" title="getter for the Time from the Weather Class" alt="" coords="197,130,341,156"/>
+<area shape="rect" id="node9" href="$class_date.html#a2e23a4914eafd53993101d4f7bf38587" title="This function will overload the operator and compare the Date objects." alt="" coords="231,81,308,106"/>
+<area shape="rect" id="node4" href="$class_wind_log.html#ab39e009a6b9b3fe35e7ee5e13a7b2577" title="This function will overload the &quot;&gt;&quot; operator and will compare two WindLog Objects." alt="" coords="5,130,149,156"/>
+<area shape="rect" id="node5" href="$class_wind_log.html#ae0721d1190c387ff3fda717d7200393e" title="This function will overload the &quot;&lt;&quot; operator and will compare two WindLog Objects." alt="" coords="9,180,145,205"/>
+<area shape="rect" id="node6" href="$class_wind_log.html#a757997df1f353cc1e5938534e64c0232" title="This function will overload the &quot;&lt;=&quot; operator and will compare two WindLog Objects." alt="" coords="5,229,149,254"/>
+</map>

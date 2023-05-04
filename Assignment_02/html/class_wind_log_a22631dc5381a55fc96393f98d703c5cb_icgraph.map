@@ -1,0 +1,6 @@
+<map id="operator&lt;" name="operator&lt;">
+<area shape="rect" id="node1" title="This function will overload the &quot;==&quot; operator and will compare two WindLog Objects." alt="" coords="139,55,216,80"/>
+<area shape="rect" id="node2" href="$class_wind_log.html#ab39e009a6b9b3fe35e7ee5e13a7b2577" title="This function will overload the &quot;&gt;&quot; operator and will compare two WindLog Objects." alt="" coords="5,5,91,31"/>
+<area shape="rect" id="node3" href="$class_wind_log.html#ae0721d1190c387ff3fda717d7200393e" title="This function will overload the &quot;&lt;&quot; operator and will compare two WindLog Objects." alt="" coords="9,55,87,80"/>
+<area shape="rect" id="node4" href="$class_wind_log.html#a757997df1f353cc1e5938534e64c0232" title="This function will overload the &quot;&lt;=&quot; operator and will compare two WindLog Objects." alt="" coords="5,104,91,129"/>
+</map>

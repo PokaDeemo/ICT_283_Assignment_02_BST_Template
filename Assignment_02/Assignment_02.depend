@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1669027587 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\bst_testing.cpp
+	"BST.h"
+	<iostream>
+
+1669100263 d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\bst.h
+	<iostream>
+	<sstream>
+	<string>
+
+1669031360 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\time.cpp
+	<iostream>
+	"Time.h"
+
+1669121109 d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\time.h
+	<iostream>
+
+1668629946 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\time_testing.cpp
+	<iostream>
+	"Time.h"
+
+1669105322 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\date_testing.cpp
+	<iostream>
+	"Date.h"
+
+1669121146 d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\date.h
+	<string>
+	<iostream>
+
+1669034938 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\date.cpp
+	"Date.h"
+
+1669106640 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\weather_testing.cpp
+	<iostream>
+	"Weather.h"
+
+1669031466 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\weather.cpp
+	"Weather.h"
+
+1669121117 d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\weather.h
+	<iostream>
+
+1669031410 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\windlog.cpp
+	"WindLog.h"
+
+1669121155 d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\windlog.h
+	<iostream>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+
+1669121709 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\menuoption.cpp
+	"MenuOption.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<iomanip>
+	<algorithm>
+
+1669121102 d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\menuoption.h
+	<string>
+	"WindLog.h"
+	"BST.h"
+	<map>
+	<vector>
+
+1668679252 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\tan hong rui freeman assignment 02\source code\assignment_02\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Windlog.h"
+	"MenuOption.h"
+
+1669034938 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\date.cpp
+	"Date.h"
+
+1669121146 d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\date.h
+	<string>
+	<iostream>
+
+1668679252 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Windlog.h"
+	"MenuOption.h"
+
+1669121155 d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\windlog.h
+	<iostream>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+
+1669121109 d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\time.h
+	<iostream>
+
+1669121117 d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\weather.h
+	<iostream>
+
+1669359204 d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\menuoption.h
+	<string>
+	"WindLog.h"
+	"BST.h"
+	<map>
+	<vector>
+
+1669100263 d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\bst.h
+	<iostream>
+	<sstream>
+	<string>
+
+1669121709 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\menuoption.cpp
+	"MenuOption.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<iomanip>
+	<algorithm>
+
+1669031360 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\time.cpp
+	<iostream>
+	"Time.h"
+
+1669031466 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\weather.cpp
+	"Weather.h"
+
+1669031410 source:d:\murdoch university assignment\ict_283_tsa\assignment_02\ict 283 34177608 tan hong rui freeman assignment 02\source code\assignment_02\windlog.cpp
+	"WindLog.h"
+

@@ -1,0 +1,14 @@
+<map id="GetMinute" name="GetMinute">
+<area shape="rect" id="node1" title="getter for the Hour" alt="" coords="523,134,605,159"/>
+<area shape="rect" id="node2" href="$_time___testing_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="52,109,103,134"/>
+<area shape="rect" id="node3" href="$class_time.html#ab046acec34a768175f0e30fd269ca7a2" title="This function will overload the operators and compare the two Time Objects." alt="" coords="393,134,471,159"/>
+<area shape="rect" id="node11" href="$class_time.html#ac3636f8f8122d2b8d18fe89e87e09c34" title="getter for the Minute" alt="" coords="389,183,475,209"/>
+<area shape="rect" id="node4" href="$class_wind_log.html#a22631dc5381a55fc96393f98d703c5cb" title="This function will overload the &quot;==&quot; operator and will compare two WindLog Objects." alt="" coords="201,285,337,310"/>
+<area shape="rect" id="node8" href="$class_time.html#afa91c9be47dbf05c95d2d2a99721de32" title="This function will overload the operators and compare the two Time Objects." alt="" coords="227,134,312,159"/>
+<area shape="rect" id="node9" href="$class_time.html#ab8c4fc3d3326f97d579641534ba6f899" title="This function will overload the operators and compare the two Time Objects." alt="" coords="231,183,308,209"/>
+<area shape="rect" id="node10" href="$class_time.html#a9e86020db1b16b5212c33a16d39ac4cc" title="This function will overload the operators and compare the two Time Objects." alt="" coords="227,33,312,58"/>
+<area shape="rect" id="node5" href="$class_wind_log.html#ab39e009a6b9b3fe35e7ee5e13a7b2577" title="This function will overload the &quot;&gt;&quot; operator and will compare two WindLog Objects." alt="" coords="5,285,149,310"/>
+<area shape="rect" id="node6" href="$class_wind_log.html#ae0721d1190c387ff3fda717d7200393e" title="This function will overload the &quot;&lt;&quot; operator and will compare two WindLog Objects." alt="" coords="9,334,145,359"/>
+<area shape="rect" id="node7" href="$class_wind_log.html#a757997df1f353cc1e5938534e64c0232" title="This function will overload the &quot;&lt;=&quot; operator and will compare two WindLog Objects." alt="" coords="5,235,149,261"/>
+<area shape="rect" id="node12" href="$class_wind_log.html#afc7d36b2d89bc7c7c5389b6c5fcfbceb" title="getter for the Time from the Weather Class" alt="" coords="197,334,341,359"/>
+</map>
